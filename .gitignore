@@ -1,0 +1,6 @@
+*.pyc
+*/*.pyc
+db.sqlite3
+.env
+*.DS_Store
+*.py[cod]
